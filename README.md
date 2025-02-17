@@ -1,10 +1,10 @@
 <h1 align="center">Computer Vision (Crash Course)</h1>
 
 <h1 align="center">Hi 👋, I'm Audrick Cuadra</h1>
-<align="center">I'm a 2nd year BSCPE data science student from Technologcal Institute of the Philippines.</align="center">
+<align="center">I'm a 3rd year BSCPE data science student from Technologcal Institute of the Philippines.</align="center">
 
 </p>
-- 📧 Contact me @**qazgcuadra@tip.edu.ph**
+- 📧 Contact me @ **qazgcuadra@tip.edu.ph**
 
 
 <h3 align="left">Languages and Tools:</h3>
